@@ -1,0 +1,126 @@
+/* all */
+html {
+    background-color: #f5f5f1;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+h1,h2,h3,p, blockquote, footer{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h1.indexh1{
+    font-size: 80px;
+    font-weight: 600;
+    padding-left: 100px;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 600;
+    padding-left: 100px;
+}
+
+h2{
+    font-size: 60px;
+    font-weight: 600;
+    padding-left: 100px;
+    margin-top: -80px;
+}
+
+h3,p,footer, video {
+    padding-left: 100px;
+
+}
+
+p.indexh1sub{
+    margin-top: -40px;
+    margin-bottom: 100px;
+    padding-left: 100px;
+}
+
+
+/*index page*/
+
+img#darkmode {
+    width: 10mm;
+    height: 10mm;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+.dark-mode-screen{
+    background-color: black;
+    color: white;
+}
+
+
+img.logo {
+    width: 70mm;
+    height: 70mm;
+    float: inline;
+    padding: 0;
+    margin: -70px;
+}
+
+img.indexcampus{
+    max-width: 100%;
+    height: 500px;
+}
+
+/* adding background color? */
+ul.indexnav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.indexnav li{
+    float: right;
+}
+
+/*link in nav bar*/
+ul.indexnav a{
+    color: #535151;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    padding-top: 40px;
+    padding-right: 40px;
+    display: block;
+    transition: color .18s;
+    
+    
+
+}
+
+ul.indexnav a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+
+/*About me page*/
+img#umd {
+    max-width: 100%;
+    height: 500px;
+
+}
+
+img#landscape {
+    max-width: 100%;
+    height: 500px;
+}
+
+
+/*Experience*/
+
+/*Portfolio*/
